@@ -26,6 +26,13 @@
 
 ## Demo <a href="https://huggingface.co/spaces/NXN-Labs/Voost"><img src="docs/logo/huggingface_logo-noborder.svg" alt="Hugging Face Demo" height="24" style="vertical-align: middle;"/></a>
 
+🚧 A public demo (try-on & try-off) will be released soon. Stay tuned!
+
+<div align="center">
+  <img src="docs/img/demo/demo_ui.png" alt="demo-ui" height="600">
+</div><br>
+
+### Examples
 <div align="center">
   <img src="docs/img/demo/demo_samples/sample1.jpg" alt="demo 1" height="200">
   <img src="docs/img/demo/demo_samples/sample2.jpg" alt="demo 2" height="200">
@@ -33,8 +40,6 @@
   <img src="docs/img/demo/demo_samples/sample4.jpg" alt="demo 4" height="200">
   <img src="docs/img/demo/demo_samples/sample5.jpg" alt="demo 5" height="200">
 </div><br>
-
-🚧 A public demo (try-on & try-off) will be released soon. Stay tuned!
 
 ## Citation
 
