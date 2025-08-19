@@ -28,7 +28,7 @@
 Try it out and don’t forget to leave a 🤍 like to support us!
 
 <div align="center">
-  <video src="docs/img/demo/voost-demo.mov" alt="voost-demo" height="600" controls></video>
+  <video src="docs/img/demo/voost-demo-lowres.mov" alt="voost-demo" height="600" controls></video>
 </div><br>
 
 ### Examples
