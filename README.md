@@ -4,14 +4,11 @@
 
 <a href="https://arxiv.org/abs/2508.04825"><img src='https://img.shields.io/badge/arXiv-2508.04825-red?style=flat&logo=arXiv&logoColor=red' alt='arxiv'></a>
 <a href="https://nxnai.github.io/Voost/"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a>
-<a href="https://github.com/nxnai/Voost/blob/main/LICENSE"><img src='https://img.shields.io/badge/License-CC BY--NC--SA--4.0-lightgreen?style=flat&logo=Lisence' alt='License'>
-</a>
-<!-- <a href='https://huggingface.co/spaces/NXN-Labs/Voost'>
-  <img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'>
-</a> -->
+<a href="https://github.com/nxnai/Voost/blob/main/LICENSE"><img src='https://img.shields.io/badge/License-CC BY--NC--SA--4.0-lightgreen?style=flat&logo=Lisence' alt='License'></a>
+<a href='https://huggingface.co/spaces/NXN-Labs/Voost'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
 
-[Seungyong Lee<sup>*</sup></a>](https://ryan-seungyong-lee.github.io/)&emsp;&emsp;
-[Jeong-gi Kwak<sup>*</sup></a>](https://jgkwak95.github.io/)<br><sup>* Equal contribution</sup><br>
+[Seungyong Lee<sup>*</sup>](https://ryan-seungyong-lee.github.io/)&emsp;&emsp;
+[Jeong-gi Kwak<sup>*</sup>](https://jgkwak95.github.io/)<br><sup>* Equal contribution</sup><br>
 **[NXN LABS](https://nxn.ai/)**
 </div>
 
@@ -22,11 +19,13 @@
 </p>
 
 ## News
+- [2025-08-19] 🚀 A public demo of Voost is now available on [Hugging Face Spaces](https://huggingface.co/spaces/NXN-Labs/Voost). Try it out and don’t forget to leave a 🤍 _like_ to support us!
 - [2025-08-08] 📄 Voost is now on [arXiv](https://arxiv.org/abs/2508.04825). Visit the [project page](https://nxnai.github.io/Voost/) for more details and results.
 
 ## Demo <a href="https://huggingface.co/spaces/NXN-Labs/Voost"><img src="docs/logo/huggingface_logo-noborder.svg" alt="Hugging Face Demo" height="24" style="vertical-align: middle;"/></a>
 
-🚧 A public demo (try-on & try-off) will be released soon. Stay tuned!
+🚀 A **public demo (try-on & try-off)** is now available on [Hugging Face Spaces](https://huggingface.co/spaces/NXN-Labs/Voost).  
+Try it out and don’t forget to leave a 🤍 like to support us!
 
 <div align="center">
   <img src="docs/img/demo/demo_ui.png" alt="demo-ui" height="600">
