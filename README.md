@@ -44,11 +44,12 @@ Try it out and don’t forget to leave a 🤍 like to support us!
 ## Citation
 
 ```bibtex
-@article{lee2025voost,
-  author  =   {Seungyong Lee and Jeong-gi Kwak},
-  title   =   {Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off},
-  journal =   {arXiv preprint arXiv:2508.04825},
-  year    =   {2025}
+@inproceedings{lee2025voost,
+  title={Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off},
+  author={Lee, Seungyong and Kwak, Jeong-gi},
+  booktitle={Proceedings of the SIGGRAPH Asia 2025 Conference Papers},
+  pages={1--11},
+  year={2025}
 }
 ```
 
